@@ -61,3 +61,6 @@ This project is licensed under the MIT License.
 
 - This project uses the `requests` library for HTTP requests and downloading content.
 - The `tkinter` library is used for creating the graphical user interface (GUI).
+
+## Sample Image
+<img width="502" alt="Gui" src="https://github.com/user-attachments/assets/1c327a79-7669-4740-a7f9-dc1bd3e1d59c">
